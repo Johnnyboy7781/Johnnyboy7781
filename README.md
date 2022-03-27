@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![visitors](visitor-badge-reloaded.herokuapp.com/badge?page_id=Johnnyboy7781.Johnnyboy7781)
 <!--
 **Johnnyboy7781/Johnnyboy7781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
