@@ -7,7 +7,7 @@ I'm Jonathan, a full-stack web developer!
 Portfolio: https://JVMcDonnell.net  
 Email: mcdonnell.jonathan@yahoo.com  
 #: 352-552-8723   
-LinkedIn: https://www.linkedin.com/in/jonathan-mcdonnell-6a6a35156/
+LinkedIn: https://www.linkedin.com/in/jvmcdonnell/
 
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Johnnyboy7781.Johnnyboy7781)
