@@ -6,7 +6,6 @@ I'm Jonathan, a full-stack web developer!
 
 Portfolio: https://JVMcDonnell.net  
 Email: mcdonnell.jonathan@yahoo.com  
-#: 352-552-8723   
 LinkedIn: https://www.linkedin.com/in/jvmcdonnell/
 
 <!--
