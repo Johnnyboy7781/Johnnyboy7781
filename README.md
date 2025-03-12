@@ -4,7 +4,7 @@ I'm Jonathan, a full-stack web developer!
 
 ### Get in contact with me!
 
-Portfolio: https://JVMcDonnell.net  
+Portfolio: https://JVMcDonnell.net  (outdated, currently updating)  
 Email: mcdonnell.jonathan@yahoo.com  
 LinkedIn: https://www.linkedin.com/in/jvmcdonnell/
 
